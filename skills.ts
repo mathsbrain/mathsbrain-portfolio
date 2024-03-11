@@ -1,0 +1,16 @@
+export const skills = [
+	{ id: 1, title: "HTML", icon: "./assets/icons/html-5.svg" },
+	{ id: 2, title: "CSS", icon: "./assets/icons/css-3.svg" },
+	{ id: 3, title: "JavaScript", icon: "./assets/icons/javascript.svg" },
+	{ id: 4, title: "TypeScript", icon: "./assets/icons/typescript.svg" },
+	{ id: 5, title: "React", icon: "./assets/icons/react.svg" },
+	{ id: 6, title: "React Native", icon: "./assets/icons/react-native.svg" },
+	{ id: 7, title: "Next.js", icon: "./assets/icons/next.svg" },
+	{ id: 8, title: "Node.js", icon: "./assets/icons/node-js.svg" },
+	{ id: 9, title: "Git", icon: "./assets/icons/git.svg" },
+	{ id: 10, title: "Tailwind CSS", icon: "./assets/icons/tailwind.svg" },
+	{ id: 11, title: "MongoDB", icon: "./assets/icons/mongodb.svg" },
+	{ id: 12, title: "Framer Motion", icon: "./assets/icons/framer.svg" },
+	{ id: 13, title: "Sass", icon: "./assets/icons/sass.svg" },
+	{ id: 14, title: "Styled Components", icon: "./assets/icons/styled-components.svg" },
+];
